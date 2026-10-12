@@ -21,6 +21,7 @@ node_modules/
 
 # Frontend production build
 frontend/dist/
+backend/dist/
 
 # Build and temporary files
 *.log
